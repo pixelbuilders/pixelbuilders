@@ -2,7 +2,7 @@
 
 [![Website](https://img.shields.io/badge/Website-pixelbuilders.com-blue)](https://www.pixelbuilders.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Pixelbuilders-blue)](https://www.linkedin.com/company/pixelbuilders/)
-[![Twitter](https://img.shields.io/badge/Twitter-@pixelbuilders-blue)](https://twitter.com/pixelbuilders)
+[![Twitter](https://img.shields.io/badge/X-@pixelbuilders-blue)](https://x.com/pixelbuilders)
 
 ## Who We Are
 
